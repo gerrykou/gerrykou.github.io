@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dead Letter Queues
+title: Apache Kafka Dead Letter Queues
 lead: 
 ---
 
