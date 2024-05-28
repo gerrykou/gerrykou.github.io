@@ -22,3 +22,8 @@ Find the book [here](https://www.manning.com/books/data-analysis-with-python-and
 
 * **Green Tea Press**, Free books by Allen B. Downey  
   Find the books [here](https://greenteapress.com/wp/)
+
+> Other
+
+* **The Manager's Path** by Camille Fournier  
+  Find the book [here](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
