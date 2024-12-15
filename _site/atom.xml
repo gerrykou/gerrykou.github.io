@@ -4,7 +4,7 @@
  <title>gerrykou</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000/"/>
- <updated>2024-12-15T16:13:35+00:00</updated>
+ <updated>2024-12-15T16:17:31+00:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name>Gerry</name>
@@ -17,7 +17,7 @@
    <link href="http://0.0.0.0:4000/2024/12/15/niien-open-data/"/>
    <updated>2024-12-15T00:00:00+00:00</updated>
    <id>http://0.0.0.0:4000/2024/12/15/niien-open-data</id>
-   <content type="html">&lt;h1 id=&quot;niien&quot;&gt;niien&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;nii-en&quot;&gt;NII EN&lt;/h1&gt;
 &lt;p&gt;Non-interconnected Greek islands Energy Production&lt;/p&gt;
 
 &lt;p&gt;A repository to publish Energy production data for Non-Interconnected Islands Market.&lt;/p&gt;
